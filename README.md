@@ -23,9 +23,9 @@ A sleek, responsive web app that converts values between Metric and Imperial uni
 ---
 
 🚀 Live Demo  
-🌐 [View Project on GitHub Pages](https://unitconverter121.netlify.app/)](#)  
-📁 [[View Source Code on GitHub](https://github.com/rajayush0/unit-converter1/tree/main)](#)  
-*(Replace `#` with your actual links)*
+🌐 [View Project on GitHub Pages](https://unitconverter121.netlify.app/)]  
+📁 [[View Source Code on GitHub](https://github.com/rajayush0/unit-converter1/tree/main)] 
+
 
 ---
 
@@ -47,7 +47,7 @@ A sleek, responsive web app that converts values between Metric and Imperial uni
 ---
 
 📚 Learning Purpose  
-Perfect for beginners to:
+
 
 - Practice DOM manipulation  
 - Understand unit conversion logic  

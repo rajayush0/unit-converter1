@@ -23,8 +23,8 @@ A sleek, responsive web app that converts values between Metric and Imperial uni
 ---
 
 🚀 Live Demo  
-🌐 [[[View Project on GitHub Pages](https://unitconverter121.netlify.app/)](#)]  
-📁 [View Source Code on GitHub](#)  
+🌐 [View Project on GitHub Pages](https://unitconverter121.netlify.app/)](#)  
+📁 [[View Source Code on GitHub](https://github.com/rajayush0/unit-converter1/tree/main)](#)  
 *(Replace `#` with your actual links)*
 
 ---
